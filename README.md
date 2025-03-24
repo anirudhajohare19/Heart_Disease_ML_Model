@@ -1,6 +1,6 @@
 ** Repository Name : Heart_Disease_ML_Model **
 -- 
-** Topic Name : Bank Tele Marketing Prediction Model **
+** Topic Name : Heart Disease Predcton Model **
 -- 
 
 ** Dataset Information **
